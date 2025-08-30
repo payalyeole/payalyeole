@@ -7,10 +7,10 @@ Hi there 👋 I'm Payal, a passionate full stack developer in training! I'm buil
 ---
 
 ### 🛠️ Tech Stack:
-- 💻 Languages: Java, C, C++, HTML5, CSS3, JavaScript, SQL
-- 🧩 Frameworks: Spring Boot, Bootstrap
+- 💻 Languages: Java
+- 🧩 Frameworks: Spring, Spring Boot, React, Bootstrap
 - 🗃️ Database: MySQL
-- 🛠️ Tools: Git, GitHub, VS Code, Eclipse, NetBeans
+- 🛠️ Tools: Git, GitHub, VS Code, Eclipse, IntelliJ IDEA, Postman 
 
 ---
 
