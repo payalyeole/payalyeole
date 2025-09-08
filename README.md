@@ -1,6 +1,6 @@
 # 💫 Payal Rajesh Yeole
 
-**Aspiring Software Developer | Java Full Stack | DSA Enthusiast | Open to Internships**
+**Aspiring Software Developer | Java Full Stack | DSA Enthusiast | Open to Job Opprtunities**
 
 Hi there 👋 I'm Payal, a passionate full stack developer in training! I'm building cool projects with Java, Spring Boot, HTML, CSS, JavaScript, and MySQL. Currently improving my DSA skills and looking for real-time project experience.
 
