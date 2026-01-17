@@ -15,7 +15,7 @@ Hi there 👋 I'm Payal, a passionate full stack developer in training! I'm buil
 ---
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PAYALYEOLE&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=payalyeole&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payalyeole&layout=compact&theme=radical)
